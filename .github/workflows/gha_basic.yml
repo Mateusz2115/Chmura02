@@ -31,10 +31,4 @@ jobs:
           file: ./Dockerfile_prod
           push: true
           tags: |
-<<<<<<< HEAD
             zajec2115/lab:ghlab10base
-          
-=======
-            2115/lab:ghlab10base
-          
->>>>>>> da9a8fd0006f0faace378f98d39ac8a5362393eb
