@@ -31,4 +31,4 @@ jobs:
           file: ./Dockerfile_prod
           push: true
           tags: |
-            zajec2115/lab:ghlab10base
+            zajec2115/chmury:tagname
