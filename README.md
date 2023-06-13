@@ -1,2 +1,3 @@
-# Chmura02
-Sprawozdanie 2
+# Laboratorium
+
+GitHub Actions - przeglad podstawowych rozwiazan
